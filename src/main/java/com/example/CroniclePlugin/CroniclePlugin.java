@@ -22,7 +22,7 @@ public class CroniclePlugin extends JavaPlugin{
     @Override
     public void onEnable() {    //플러그인 활성화시 실행
         logger = getLogger();
-        Utils.log("플러그인 갸꿀우우울");
+        Utils.log("플러그인 갸꿀우우울ㄹ");
         logger.info("zl존 개쩌는 플러그인이 활성화되었습니다!");  //서버의 로그에 출력
     }
     @Override
